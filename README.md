@@ -21,7 +21,7 @@
 
 ### Back-end :
 
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-0A66C2?style=for-the-badge&logo=flask&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
 ### Base de données :
@@ -38,7 +38,7 @@
 
 ## Me contacter  
 
-[![Email](https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leopaul.jay@outlook.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%A9o-paul-jay) [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://leo-polenord.github.io/Webfolio/)
+[![Email](https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leopaul.jay@outlook.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%A9o-paul-jay) [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://leo-polenord.github.io/Webfolio/)
 
 </div>
 
